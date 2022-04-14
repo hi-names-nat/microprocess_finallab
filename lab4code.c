@@ -82,6 +82,11 @@ int main(int argc, char** argv)
     
     while (1)
     {
-       
+       for (int i = 0; i < patternLength; i++)
+       {
+           //set lights 
+           //set stuff
+           //delay
+       }
     }
 }
